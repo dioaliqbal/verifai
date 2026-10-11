@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Brand Logo matching user emblem -->
+  <defs>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF1A26"/>
+      <stop offset="100%" stop-color="#D90416"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left Upper Red Geometric Block -->
+  <path d="M138 174 L180 196 L180 248 L138 226 Z" fill="url(#redGrad)" />
+
+  <!-- Left Lower Red Vertical Stem Accent -->
+  <path d="M193 306 L228 306 L228 388 L193 370 Z" fill="url(#redGrad)" />
+
+  <!-- Back Portion of Red Orbital Ring (passes behind upper right of D) -->
+  <path d="M312 146 C342 142 376 148 402 166 C416 176 414 195 398 214 L386 200 C398 188 396 178 386 172 C366 158 338 154 312 156 Z" fill="url(#redGrad)" />
+
+  <!-- Main White Letter "D" Body -->
+  <!-- Top Diagonal and Outer Spine -->
+  <path d="M193 88 L330 178 C358 198 372 226 366 268 C360 308 335 348 290 376 L232 388 L232 306 L268 298 C294 280 306 256 310 230 C314 204 304 186 286 174 L228 136 L228 280 L193 280 Z" fill="#FFFFFF" />
+
+  <!-- Front Sweeping Red Orbital Ring -->
+  <!-- Sweeps from bottom-left around to center across D -->
+  <path d="M104 300 C100 326 128 332 170 316 C220 298 280 262 334 224 C358 206 378 188 390 174 C402 160 412 144 394 144 C376 144 354 158 328 176 C276 214 214 252 164 272 C132 284 116 286 114 278 C112 268 128 250 156 228 L142 216 C116 238 104 266 104 300 Z" fill="url(#redGrad)" />
+
+  <!-- Inner White Highlight Rim of the Orbital Ring -->
+  <path d="M124 286 C136 294 156 290 182 278 C232 256 290 220 342 182 C360 168 376 156 384 150 C388 148 390 148 390 150 C386 156 374 168 354 184 C304 222 244 260 190 282 C164 294 142 300 128 294 C122 290 122 288 124 286 Z" fill="#FFFFFF" />
+</svg>
